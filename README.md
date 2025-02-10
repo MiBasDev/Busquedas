@@ -11,8 +11,10 @@ Resolución de problemas mediante búsquedas.
 ![Algoritmo A*](doc/Busqueda_Astar.png)
 
 1. La heurística utilizada en el algoritmo A, ¿es admisible? ¿Por qué?
-Sí lo es, porque la heurística no sobreestime, por lo tanto, sí, es admisible.
+
+Sí lo es, porque la heurística no sobreestima, por lo tanto, sí, es admisible.
 - ¿Podemos decir que el algoritmo es A*?
+
 Sí, podemos decir que es A*.
 
 ## Ejercicio 3. Búsqueda por Coste Uniforme
